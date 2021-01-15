@@ -27,4 +27,4 @@ Description: The following code sample calls the API's <code>videos.insert</code
 associated with the request.
 
 
-![alt text](https://github.com/mosesnova/2DAnimation/blob/master/idea.jpg)
+![alt text](https://github.com/mosesnova/Google.Apis.YouTube.Samples/blob/master/YouTubeData.JPG)
